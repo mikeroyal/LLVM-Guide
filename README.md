@@ -16,9 +16,9 @@
 
 # Table of Contents
 
-1. [LLVM Learning Resources](https://github.com/mikeroyal/LLVM-Guide#Computer-Vision-learning-resources)
+1. [LLVM Learning Resources](https://github.com/mikeroyal/LLVM-Guide#llvm-learning-resources)
 
-2. [LLVM Tools, Libraries and Frameworks](https://github.com/mikeroyal/LLVM-Guide#Computer-Vision-tools-and-frameworks)
+2. [LLVM Tools, Libraries and Frameworks](https://github.com/mikeroyal/LLVM-Guide#Cllvm-tools-and-frameworks)
 
 3. [C/C++ Development](https://github.com/mikeroyal/LLVM-Guide#cc-development)
 
