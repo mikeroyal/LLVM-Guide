@@ -63,7 +63,7 @@
 
 [Clang-Tidy](https://clang.llvm.org/extra/clang-tidy/) is a clang-based C++ "linter" tool. Its purpose is to provide an extensible framework for diagnosing and fixing typical programming errors, like style violations, interface misuse, or bugs that can be deduced via static analysis. clang-tidy is modular and provides a convenient interface for writing new checks.
 
-[Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) is a Visual Studio Code extensio that provides C/C++ language IDE features for VS Code using [clangd](https://clangd.llvm.org/).
+[Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) is a Visual Studio Code extension that provides C/C++ language IDE features for VS Code using [clangd](https://clangd.llvm.org/).
 
 [LLD](https://lld.llvm.org/) is a linker from the LLVM project that is a drop-in replacement for system linkers and runs much faster than them. It also provides features that are useful for toolchain developers. The linker supports ELF (Unix), PE/COFF (Windows), Mach-O (macOS) and WebAssembly in descending order.
 
