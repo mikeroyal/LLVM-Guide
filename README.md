@@ -65,6 +65,8 @@
 
 [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) is a Visual Studio Code extensio that provides C/C++ language IDE features for VS Code using [clangd](https://clangd.llvm.org/).
 
+[LLD](https://lld.llvm.org/) is a linker from the LLVM project that is a drop-in replacement for system linkers and runs much faster than them. It also provides features that are useful for toolchain developers. The linker supports ELF (Unix), PE/COFF (Windows), Mach-O (macOS) and WebAssembly in descending order.
+
 [TinyGo](https://tinygo.org/) is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.
 
 [FileCheck](https://llvm.org/docs/CommandGuide/FileCheck.html) is a flexible pattern matching file verifier.
