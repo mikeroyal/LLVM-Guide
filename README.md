@@ -77,7 +77,7 @@
 
 [lldb-tblgen](https://llvm.org/docs/CommandGuide/lldb-tblgen.html) is a description to C++ Code for LLDB.
 
-[llvm-tblgen](https://llvm.org/docs/CommandGuide/llvm-tblgen.html) is a target Description to C++ Code for LLVM.
+[llvm-tblgen](https://llvm.org/docs/CommandGuide/llvm-tblgen.html) is a target description to C++ Code for LLVM.
 
 [mlir-tblgen](https://llvm.org/docs/CommandGuide/mlir-tblgen.html) is a description to C++ Code for MLIR.
 
