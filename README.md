@@ -69,6 +69,14 @@
 
 [TinyGo](https://tinygo.org/) is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.
 
+[oneAPI DPC++ compiler](https://github.com/intel/llvm) is a LLVM-based compiler project that implements compiler and runtime support for the [SYCL*](https://github.com/intel/llvm/tree/sycl) language. 
+
+[Cling](https://github.com/root-project/cling) is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure. Cling realizes the [read-eval-print loop (REPL)](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) concept, in order to leverage rapid application development. 
+
+[McSema](https://github.com/lifting-bits/mcsema) is an executable lifter. It translates ("lifts") x86, amd64, aarch64, sparc32, and sparc64 executable binaries from native machine code to LLVM bitcode. 
+
+[QuarkslaB Dynamic binary Instrumentation (QBDI)](https://qbdi.quarkslab.com/) is a modular, cross-platform and cross-architecture DBI framework. It aims to support Linux, macOS, Android, iOS and Windows operating systems running on x86, x86-64, ARM and AArch64 architectures. 
+
 [FileCheck](https://llvm.org/docs/CommandGuide/FileCheck.html) is a flexible pattern matching file verifier.
 
 [tblgen](https://llvm.org/docs/CommandGuide/tblgen.html) is a description to C++ Code.
