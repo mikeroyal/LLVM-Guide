@@ -80,6 +80,8 @@
 
 [TinyGo](https://tinygo.org/) is a Go compiler(based on LLVM) intended for use in small places such as microcontrollers, WebAssembly (Wasm), and command-line tools.
 
+[Codon](https://docs.exaloop.io/codon) is a high-performance Python compiler that compiles Python code to native machine code without any runtime overhead. Typical speedups over Python are on the order of 10-100x or more, on a single thread. 
+
 [oneAPI DPC++ compiler](https://github.com/intel/llvm) is a LLVM-based compiler project that implements compiler and runtime support for the [SYCL*](https://github.com/intel/llvm/tree/sycl) language. 
 
 [Cling](https://github.com/root-project/cling) is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure. Cling realizes the [read-eval-print loop (REPL)](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) concept, in order to leverage rapid application development. 
