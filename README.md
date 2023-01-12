@@ -16,7 +16,9 @@
 
 # Table of Contents
 
-1. [LLVM Learning Resources](https://github.com/mikeroyal/LLVM-Guide#llvm-learning-resources)
+1. [Getting Started with LLVM](https://github.com/mikeroyal/LLVM-Guide#llvm-learning-resources)
+ 
+   * [Developer Resources](#Developer-Resources)
 
 2. [LLVM Tools, Libraries and Frameworks](https://github.com/mikeroyal/LLVM-Guide#llvm-tools-libraries-and-frameworks)
 
@@ -25,32 +27,41 @@
 4. [Assembly Development](https://github.com/mikeroyal/LLVM-Guide#assembly-development)
 
 
-# LLVM Learning Resources
-[Back to the Top](https://github.com/mikeroyal/LLVM-Guide#table-of-contents)
+# Getting Started with LLVM 
+
+[Back to the Top](#table-of-contents)
 
 [LLVM](https://github.com/llvm/) is a library that has collection of modular/reusable compiler and toolchain  components (assemblers, compilers, and debuggers). With these components LLVM can be used as a compiler framework, providing a front-end(parser and lexer) and a back-end (code that converts LLVM's representation to actual machine code).
 
-[Clang](https://clang.llvm.org/) is a language front-end and tooling infrastructure for languages in the C language family (C, C++, Objective C/C++, OpenCL, CUDA, and RenderScript) for the LLVM project.
+ * **LLVM-based compiler:** This is a compiler built partially or completely with the LLVM infrastructure. For example, a compiler might use LLVM for the frontend and backend but use GCC and GNU system libraries to perform the final link.
 
-[LLVM Project GitHub](https://github.com/llvm/llvm-project//)
+ * **LLVM libraries:** This is the reusable code portion of the LLVM infrastructure. 
 
-[LLVM Documentation](https://llvm.org/docs/index.html)
+ * **LLVM core:** The optimizations that happen at the intermediate language level and the backend algorithms form the LLVM core where the project started.
 
-[LLVM Discussion Forum](https://llvm.discourse.group/)
+ * **[Clang](https://clang.llvm.org/)** is a language front-end and tooling infrastructure for languages in the C language family (C, C++, Objective C/C++, OpenCL, CUDA, and RenderScript) for the LLVM project.
 
-[LLVM | Apple Developer Forums](https://developer.apple.com/forums/tags/llvm/)
+## Developer Resources
 
-[Contributing to LLVM](https://llvm.org/docs/Contributing.html)
+ * [LLVM Project GitHub](https://github.com/llvm/llvm-project//)
 
-[Getting Started with LLVM](https://llvm.org/docs/GettingStartedTutorials.html)
+ * [LLVM Documentation](https://llvm.org/docs/index.html)
 
-[Getting Started with Clang](https://clang.llvm.org/get_started.html)
+ * [LLVM Discussion Forum](https://llvm.discourse.group/)
 
-[How To Setup Clang Tooling For LLVM](https://clang.llvm.org/docs/HowToSetupToolingForLLVM.html)
+ * [LLVM | Apple Developer Forums](https://developer.apple.com/forums/tags/llvm/)
 
-[Using Clang-Tidy in Visual Studio](https://docs.microsoft.com/en-us/cpp/code-quality/clang-tidy)
+ * [Contributing to LLVM](https://llvm.org/docs/Contributing.html)
+ 
+ * [Getting Started with LLVM](https://llvm.org/docs/GettingStartedTutorials.html)
 
-[Configure VS Code for Clang/LLVM on macOS](https://code.visualstudio.com/docs/cpp/config-clang-mac)
+ * [Getting Started with Clang](https://clang.llvm.org/get_started.html)
+
+ * [How To Setup Clang Tooling For LLVM](https://clang.llvm.org/docs/HowToSetupToolingForLLVM.html)
+
+ * [Using Clang-Tidy in Visual Studio](https://docs.microsoft.com/en-us/cpp/code-quality/clang-tidy)
+
+ * [Configure VS Code for Clang/LLVM on macOS](https://code.visualstudio.com/docs/cpp/config-clang-mac)
 
 # LLVM Tools, Libraries and Frameworks
 [Back to the Top](https://github.com/mikeroyal/LLVM-Guide#table-of-contents)
