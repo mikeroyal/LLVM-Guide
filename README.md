@@ -16,7 +16,7 @@
 
 # Table of Contents
 
-1. [Getting Started with LLVM](https://github.com/mikeroyal/LLVM-Guide#llvm-learning-resources)
+1. [Getting Started with LLVM](https://github.com/mikeroyal/LLVM-Guide#getting-started-with-llvm)
  
    * [Developer Resources](#Developer-Resources)
 
