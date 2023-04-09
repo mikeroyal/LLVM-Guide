@@ -86,6 +86,10 @@
 
 [Cling](https://github.com/root-project/cling) is an interactive C++ interpreter, built on top of Clang and LLVM compiler infrastructure. Cling realizes the [read-eval-print loop (REPL)](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) concept, in order to leverage rapid application development. 
 
+[Emu](https://calebwin.github.io/emu) is a GPGPU library for Rust with a focus on portability, modularity, and performance. It's a CUDA-esque compute-specific abstraction over WebGPU providing specific functionality to make WebGPU feel more like CUDA.
+
+[Scalene](https://github.com/plasma-umass/scalene) is a high-performance CPU, GPU and memory profiler for Python that does a number of things that other Python profilers do not and cannot do. It runs orders of magnitude faster than many other profilers while delivering far more detailed information. 
+
 [McSema](https://github.com/lifting-bits/mcsema) is an executable lifter. It translates ("lifts") x86, amd64, aarch64, sparc32, and sparc64 executable binaries from native machine code to LLVM bitcode. 
 
 [QuarkslaB Dynamic binary Instrumentation (QBDI)](https://qbdi.quarkslab.com/) is a modular, cross-platform and cross-architecture DBI framework. It aims to support Linux, macOS, Android, iOS and Windows operating systems running on x86, x86-64, ARM and AArch64 architectures. 
