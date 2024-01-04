@@ -25,6 +25,8 @@
 1. [Getting Started with LLVM](https://github.com/mikeroyal/LLVM-Guide#getting-started-with-llvm)
  
    * [Developer Resources](#Developer-Resources)
+   * [Books](#books)
+   * [YouTube Tutorials](#youtube-tutorials)
 
 2. [LLVM Tools, Libraries and Frameworks](https://github.com/mikeroyal/LLVM-Guide#llvm-tools-libraries-and-frameworks)
 
@@ -68,6 +70,42 @@
  * [Using Clang-Tidy in Visual Studio](https://docs.microsoft.com/en-us/cpp/code-quality/clang-tidy)
 
  * [Configure VS Code for Clang/LLVM on macOS](https://code.visualstudio.com/docs/cpp/config-clang-mac)
+
+### 📖 Books
+
+[Back to the Top](#table-of-contents)
+
+ * [LLVM Language Reference Manual](https://llvm.org/docs/LangRef.html)
+ * [LLVM Programmer’s Manual](https://llvm.org/docs/ProgrammersManual.html)
+ * [Getting Started with the LLVM System](https://llvm.org/docs/GettingStarted.html)
+ * [Learn LLVM 17: A beginner's guide to learning LLVM compiler tools and core libraries with C++ by Kai Nacke](https://www.amazon.com/Learn-LLVM-17-beginners-libraries-ebook/dp/B0CL772K23/)
+ * [LLVM API with Rust Kindle Edition by Vishal Patil](https://www.amazon.com/LLVM-API-Rust-Vishal-Patil-ebook/dp/B0CGMP7D7M)
+ * [LLVM Techniques, Tips, and Best Practices Clang and Middle-End Libraries: Design powerful and reliable compilers using the latest libraries and tools from LLVM by Min-Yih Hsu](https://www.amazon.com/Techniques-Practices-Clang-Middle-End-Libraries/dp/1838824952)
+ * [Crafting Interpreters by Robert Nystrom](https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom/dp/0990582930)
+ * [Writing Compilers and Interpreters: A Software Engineering Approach 3rd Edition by Ronald Mak](https://www.amazon.com/Writing-Compilers-Interpreters-Software-Engineering-ebook/dp/B004S82O40)
+ * [Build Your Own Programming Language: A programmer's guide to designing compilers, interpreters, and DSLs for solving modern computing problems
+by Clinton L. Jeffery](https://www.amazon.com/Build-Your-Own-Programming-Language/dp/1800204809)
+ * [LLVM @ Google Scholar](https://scholar.google.com/scholar?hl=en&q=llvm)
+ * [LLVM @ ACM-DL](https://dl.acm.org/action/doSearch?fillQuickSearch=false&target=advanced&expand=dl&field1=AllField&text1=llvm)
+ * [LLVM @ IEEEXplore](http://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=llvm)
+ * [LLVM @ DBLP](http://dblp.org/search/#query=llvm)
+
+### 📺 YouTube Tutorials
+
+[Back to the Top](#table-of-contents)
+
+[![2023 LLVM Dev Mtg - A Tour of ADT - the LLVM Developer's Toolbox](https://ytcards.demolab.com/?id=owQlnNYek2o&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "2023 LLVM Dev Mtg - A Tour of ADT - the LLVM Developer's Toolbox")](https://www.youtube.com/watch?v=owQlnNYek2o)
+[![2023 LLVM Dev Mtg - MLIR Is Not an ML Compiler, and Other Common Misconceptions](https://ytcards.demolab.com/?id=lXAp6ZAWyBY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "2023 LLVM Dev Mtg - MLIR Is Not an ML Compiler, and Other Common Misconceptions")](https://www.youtube.com/watch?v=lXAp6ZAWyBY)
+[![2023 LLVM Dev Mtg - Generalized Mem2Reg for MLIR and how to use it](https://ytcards.demolab.com/?id=ON3MAvjnUis&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "2023 LLVM Dev Mtg - Generalized Mem2Reg for MLIR and how to use it")](https://www.youtube.com/watch?v=ON3MAvjnUis)
+[![LLVM in 100 Seconds](https://ytcards.demolab.com/?id=BT2Cv-Tjq7Q&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "LLVM in 100 Seconds")](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
+[![Programming Language with LLVM [1/20] Introduction to LLVM IR and tools](https://ytcards.demolab.com/?id=Lvc8qx8ukOI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Programming Language with LLVM [1/20] Introduction to LLVM IR and tools")](https://www.youtube.com/watch?v=Lvc8qx8ukOI)
+[![Bjarne Stroustrup: C++ Implementations - Clang, GCC, Microsoft, and EDG](https://ytcards.demolab.com/?id=ZQds2aGHwDA&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Bjarne Stroustrup: C++ Implementations - Clang, GCC, Microsoft, and EDG")](https://www.youtube.com/watch?v=ZQds2aGHwDA)
+[![Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21](https://ytcards.demolab.com/?id=yCd3CzGSte8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21")](https://www.youtube.com/watch?v=yCd3CzGSte8)
+[![How to build a compiler with LLVM and MLIR ](https://ytcards.demolab.com/?id=Ij4LswX1tZU&list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "How to build a compiler with LLVM and MLIR ")](https://www.youtube.com/watch?v=Ij4LswX1tZU&list=PLlONLmJCfHTo9WYfsoQvwjsa5ZB6hjOG5)
+[![Introduction to the Low-Level Virtual Machine (LLVM) ](https://ytcards.demolab.com/?id=HecW5byOrUY&list=PLDSTpI7ZVmVnvqtebWnnI8YeB8bJoGOyv&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Introduction to the Low-Level Virtual Machine (LLVM) ")](https://www.youtube.com/watch?v=HecW5byOrUY&list=PLDSTpI7ZVmVnvqtebWnnI8YeB8bJoGOyv)
+[![2023 EuroLLVM - Tutorial: A whirlwind tour of the LLVM optimizer](https://ytcards.demolab.com/?id=7GHXDEIMGIY&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "2023 EuroLLVM - Tutorial: A whirlwind tour of the LLVM optimizer")](https://www.youtube.com/watch?v=7GHXDEIMGIY)
+[![C++ vs Rust: which is faster?](https://ytcards.demolab.com/?id=VMpSYJ_7aYM&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "C++ vs Rust: which is faster?")](https://www.youtube.com/watch?v=VMpSYJ_7aYM)
+[![Making LLVM RISC-V Compiler More Performant for Everyone - Ivan Baev](https://ytcards.demolab.com/?id=-Dtrfq2i7P8&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Making LLVM RISC-V Compiler More Performant for Everyone - Ivan Baev")](https://www.youtube.com/watch?v=-Dtrfq2i7P8)
 
 # LLVM Tools, Libraries and Frameworks
 [Back to the Top](https://github.com/mikeroyal/LLVM-Guide#table-of-contents)
