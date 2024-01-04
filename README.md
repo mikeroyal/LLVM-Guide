@@ -71,7 +71,7 @@
 
  * [Configure VS Code for Clang/LLVM on macOS](https://code.visualstudio.com/docs/cpp/config-clang-mac)
 
-### 📖 Books
+### Books 
 
 [Back to the Top](#table-of-contents)
 
@@ -90,7 +90,7 @@ by Clinton L. Jeffery](https://www.amazon.com/Build-Your-Own-Programming-Languag
  * [LLVM @ IEEEXplore](http://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=llvm)
  * [LLVM @ DBLP](http://dblp.org/search/#query=llvm)
 
-### 📺 YouTube Tutorials
+### YouTube Tutorials 
 
 [Back to the Top](#table-of-contents)
 
